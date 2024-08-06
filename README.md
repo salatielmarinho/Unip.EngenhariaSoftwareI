@@ -49,7 +49,7 @@ Compreender as técnicas de engenharia de software. Aplicar modelos de forma efic
 :small_blue_diamond: O processo de software;<br>
 :small_blue_diamond: PSP - Processo Pessoal de Software;<br>
 :small_blue_diamond: Utilização de formulários e caixas de mensagem;<br>
-:small_blue_diamond: TSP ? Processo de Equipe de Software;<br>
+:small_blue_diamond: TSP - Processo de Equipe de Software;<br>
 :small_blue_diamond: Modelos de processos de software (Modelos de ciclo de vida de software);<br>
 :small_blue_diamond: Modelos Ágeis;<br>
 :small_blue_diamond: Prática da Engenharia de Software;<br>
